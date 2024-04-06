@@ -5,7 +5,7 @@ require __DIR__.'/vendor/autoload.php';
 use App\Quadrado;
 use App\Retangulo;
 
-echo '<h2>Projeto inicial</h2>';
+echo '<h2>Sem o Princípio da Subistituição de Liskov</h2>';
 
 echo '<h3>Cálculo do Retângulo</h3>';
 

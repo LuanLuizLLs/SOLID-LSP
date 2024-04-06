@@ -6,7 +6,7 @@ use App\Poligono;
 use App\poligonos\Quadrado;
 use App\poligonos\Retangulo;
 
-echo '<h2>Princípio da Subistituição de Liskov</h2>';
+echo '<h2>Com o Princípio da Subistituição de Liskov</h2>';
 
 echo '<h3>Cálculo do Retângulo</h3>';
 

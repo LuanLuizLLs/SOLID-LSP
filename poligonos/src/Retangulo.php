@@ -4,8 +4,8 @@ namespace App;
 
 class Retangulo {
 
-  private $largura;
-  private $altura;
+  public $largura;
+  public $altura;
 
   public function getLargura(): float {
     return $this->largura;
