@@ -1,5 +1,5 @@
 {
-    "name": "luanl/poligonos",
+    "name": "luanl/poligonos-lsp",
     "autoload": {
         "psr-4": {
             "App\\": "src/"
