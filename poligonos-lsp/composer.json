@@ -2,7 +2,7 @@
     "name": "luanl/poligonos-lsp",
     "autoload": {
         "psr-4": {
-            "PoligonosLsp\\": "src/"
+            "YesLSP\\": "src/"
         }
     },
     "authors": [

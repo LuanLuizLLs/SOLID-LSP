@@ -1,6 +1,6 @@
 <?php
 
-namespace PoligonosLsp\poligonos;
+namespace YesLSP\poligonos;
 
 class Retangulo {
 

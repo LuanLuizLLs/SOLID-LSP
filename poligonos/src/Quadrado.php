@@ -1,6 +1,6 @@
 <?php
 
-namespace Poligonos;
+namespace NoLSP;
 
 class Quadrado extends Retangulo {
 

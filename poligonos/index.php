@@ -2,8 +2,8 @@
 
 require __DIR__.'/vendor/autoload.php';
 
-use Poligonos\Quadrado;
-use Poligonos\Retangulo;
+use NoLSP\Quadrado;
+use NoLSP\Retangulo;
 
 echo '<h2>Sem o Princípio da Subistituição de Liskov</h2>';
 

@@ -1,6 +1,6 @@
 <?php 
 
-namespace PoligonosLsp;
+namespace YesLSP;
 
 class Poligono {
 

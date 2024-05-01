@@ -2,7 +2,7 @@
     "name": "luanl/poligonos",
     "autoload": {
         "psr-4": {
-            "Poligonos\\": "src/"
+            "NoLSP\\": "src/"
         }
     },
     "authors": [

@@ -2,9 +2,9 @@
 
 require __DIR__.'/vendor/autoload.php';
 
-use PoligonosLsp\Poligono;
-use PoligonosLsp\poligonos\Quadrado;
-use PoligonosLsp\poligonos\Retangulo;
+use YesLSP\Poligono;
+use YesLSP\poligonos\Quadrado;
+use YesLSP\poligonos\Retangulo;
 
 echo '<h2>Com o Princípio da Subistituição de Liskov</h2>';
 
