@@ -1,6 +1,6 @@
 <?php
 
-namespace App;
+namespace Poligonos;
 
 class Quadrado extends Retangulo {
 
