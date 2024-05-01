@@ -6,9 +6,9 @@ use YesLSP\Poligono;
 use YesLSP\poligonos\Quadrado;
 use YesLSP\poligonos\Retangulo;
 
-echo '<h2>Com o Princípio da Subistituição de Liskov</h2>';
+echo "<h2>Com o Princípio da Subistituição de Liskov</h2>";
 
-echo '<h3>Cálculo do Retângulo</h3>';
+echo "<h3>Cálculo do Retângulo</h3>";
 
 $poligono = new Poligono();
 $poligono->setForma(new Retangulo());
