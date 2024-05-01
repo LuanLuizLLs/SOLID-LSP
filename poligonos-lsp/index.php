@@ -23,6 +23,8 @@ $area = $poligono->getArea();
 
 echo "<p><b>Área do retângulo:</b> $area</p>";
 
+echo "<hr>";
+
 $poligono = new Poligono();
 $poligono->setForma(new Quadrado());
 $poligono->getForma()->setAltura(5);
